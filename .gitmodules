@@ -1,0 +1,9 @@
+[submodule "webcam"]
+	path = webcam
+	url = https://github.com/Whatnotkkachi7/webcam.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/Whatnotkkachi7/docker.git
+[submodule "printer"]
+	path = printer
+	url = https://github.com/Whatnotkkachi7/printer.git
