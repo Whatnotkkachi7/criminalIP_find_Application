@@ -1,8 +1,6 @@
 # criminalIP_find_Application ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/45d9b349-259e-496c-b6f7-c535c86f06eb.png" />
-</p>
+![thumbnail](https://github.com/user-attachments/assets/67d24f09-61ca-4e4b-abbb-51f814ccbae6)
 
 ## Overview
 ***criminalIP_find_Application*** is a collection of python programs for finding *webcam*, *docker* and *printer* related assets, using Criminal IP banner search API.
